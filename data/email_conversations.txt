@@ -1,0 +1,229 @@
+THREAD_ID: THREAD-6001
+
+---
+From: client@retailcorp.com
+To: product@techvendor.com
+Date: 2026-02-01T09:00:00
+Subject: Requirement for Inventory Management System
+
+Hi Team,
+We are looking to build a new inventory management system.
+I would like to discuss the requirements in detail.
+---
+
+From: product@techvendor.com
+To: client@retailcorp.com
+Date: 2026-02-01T09:20:00
+Subject: Re: Requirement for Inventory Management System
+
+Hello,
+Thanks for reaching out.
+Could you please share a brief overview of your requirements?
+---
+
+From: client@retailcorp.com
+To: product@techvendor.com
+Date: 2026-02-01T09:40:00
+Subject: Re: Requirement for Inventory Management System
+
+Sure.
+We need real-time stock tracking across multiple warehouses.
+---
+
+From: product@techvendor.com
+To: client@retailcorp.com
+Date: 2026-02-01T10:00:00
+Subject: Re: Requirement for Inventory Management System
+
+Understood.
+Do you also require role-based access for different users?
+---
+
+From: client@retailcorp.com
+To: product@techvendor.com
+Date: 2026-02-01T10:15:00
+Subject: Re: Requirement for Inventory Management System
+
+Yes.
+Admins, managers, and warehouse staff should have different permissions.
+---
+
+From: product@techvendor.com
+To: client@retailcorp.com
+Date: 2026-02-01T10:30:00
+Subject: Re: Requirement for Inventory Management System
+
+Noted.
+Should the system support low-stock alerts and notifications?
+---
+
+From: client@retailcorp.com
+To: product@techvendor.com
+Date: 2026-02-01T10:45:00
+Subject: Re: Requirement for Inventory Management System
+
+Yes, alerts are required via email and dashboard notifications.
+---
+
+From: product@techvendor.com
+To: client@retailcorp.com
+Date: 2026-02-01T11:00:00
+Subject: Re: Requirement for Inventory Management System
+
+Got it.
+Do you need integration with any existing ERP or billing systems?
+---
+
+From: client@retailcorp.com
+To: product@techvendor.com
+Date: 2026-02-01T11:20:00
+Subject: Re: Requirement for Inventory Management System
+
+We need integration with our existing ERP system.
+I will share the API details separately.
+---
+
+From: product@techvendor.com
+To: client@retailcorp.com
+Date: 2026-02-01T11:40:00
+Subject: Re: Requirement for Inventory Management System
+
+Thank you.
+What is the expected number of concurrent users?
+---
+
+From: client@retailcorp.com
+To: product@techvendor.com
+Date: 2026-02-01T12:00:00
+Subject: Re: Requirement for Inventory Management System
+
+Around 500 concurrent users during peak hours.
+---
+
+From: product@techvendor.com
+To: client@retailcorp.com
+Date: 2026-02-01T12:20:00
+Subject: Re: Requirement for Inventory Management System
+
+Understood.
+Do you require audit logs for stock changes?
+---
+
+From: client@retailcorp.com
+To: product@techvendor.com
+Date: 2026-02-01T12:35:00
+Subject: Re: Requirement for Inventory Management System
+
+Yes, audit logs are mandatory for compliance purposes.
+---
+
+From: product@techvendor.com
+To: client@retailcorp.com
+Date: 2026-02-01T13:00:00
+Subject: Re: Requirement for Inventory Management System
+
+Thanks.
+Would you prefer a cloud-based or on-premise deployment?
+---
+
+From: client@retailcorp.com
+To: product@techvendor.com
+Date: 2026-02-01T13:15:00
+Subject: Re: Requirement for Inventory Management System
+
+Cloud-based deployment is preferred.
+---
+
+From: product@techvendor.com
+To: client@retailcorp.com
+Date: 2026-02-01T13:40:00
+Subject: Re: Requirement for Inventory Management System
+
+Noted.
+What is your expected timeline for the first version?
+---
+
+From: client@retailcorp.com
+To: product@techvendor.com
+Date: 2026-02-01T14:00:00
+Subject: Re: Requirement for Inventory Management System
+
+We are targeting a first release within 3 months.
+---
+
+From: product@techvendor.com
+To: client@retailcorp.com
+Date: 2026-02-01T14:20:00
+Subject: Re: Requirement for Inventory Management System
+
+Understood.
+We will prepare a detailed proposal and share it shortly.
+---
+
+From: client@retailcorp.com
+To: product@techvendor.com
+Date: 2026-02-01T14:40:00
+Subject: Re: Requirement for Inventory Management System
+
+Sounds good.
+Looking forward to reviewing the proposal.
+---
+
+From: product@techvendor.com
+To: client@retailcorp.com
+Date: 2026-02-01T15:00:00
+Subject: Re: Requirement for Inventory Management System
+
+Thank you.
+We will be in touch soon with next steps.
+---
+
+THREAD_ID: THREAD-6002
+
+---
+From: client@retailcorp.com
+To: account.manager@techvendor.com
+Date: 2026-02-03T10:00:00
+Subject: Meeting follow-up
+
+Hi,
+Thanks for the discussion yesterday.
+It was helpful.
+---
+
+From: account.manager@techvendor.com
+To: client@retailcorp.com
+Date: 2026-02-03T10:15:00
+Subject: Re: Meeting follow-up
+
+Hi,
+Glad to hear that.
+Please let me know if you need anything further.
+---
+
+From: client@retailcorp.com
+To: account.manager@techvendor.com
+Date: 2026-02-03T10:30:00
+Subject: Re: Meeting follow-up
+
+Sure.
+We will reach out if we have any questions.
+---
+
+From: account.manager@techvendor.com
+To: client@retailcorp.com
+Date: 2026-02-03T16:00:00
+Subject: Upcoming holiday schedule
+
+Hi,
+Just sharing our holiday schedule for next month.
+---
+
+From: client@retailcorp.com
+To: account.manager@techvendor.com
+Date: 2026-02-03T16:15:00
+Subject: Re: Upcoming holiday schedule
+
+Thanks for the update.
+Noted.
+---
